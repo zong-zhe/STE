@@ -1,7 +1,7 @@
 package cn.edu.nuaa.ste;
 
 import java.util.Arrays;
-
+//Bubble Sort
 public class BubbleSortService {
     public void sort(int array[]) {
         int t = 0;
