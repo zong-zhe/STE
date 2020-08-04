@@ -7,7 +7,7 @@ import java.util.*;
 
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
-
+//Add mock module
 public class MockTest {
     // 1.加载Spring的配置文件
     static ApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
